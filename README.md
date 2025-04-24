@@ -11,7 +11,7 @@ Neste projeto, um telescópio manual na configuração Azimutal foi automatizado
 </p>
 
 # Estrutura física
-A estrutura física da automação do telescópio é composta por três partes: a engrenagem e motor para controle do ângulo de altitude; a engrenagem e motor para controle do ângulo de azimute; e a caixinha com a placa de circuito impresso com a ESP32, que recebe os dados do Stellarium por Wi-fi e comanda os motores. Os dois motores de passo da estrutura são comandados pela ESP32 de 38 pinos por meio de um driver A4988. Todas as peças são projetadas em 3D e foram impressas em PLA, podendo ser encontradas na pasta Pecas_3d deste projeto.
+A estrutura física da automação do telescópio é composta por três partes: a engrenagem e motor para controle do ângulo de altitude; a engrenagem e motor para controle do ângulo de azimute; e a caixinha com a placa de circuito impresso com a ESP32, que recebe os dados do Stellarium por Wi-fi e comanda os motores. Os dois motores de passo da estrutura são comandados pela ESP32 de 38 pinos por meio de um driver A4988. Todas as peças são projetadas em 3D e foram impressas em PLA, podendo ser encontradas na pasta pecas_3d deste projeto.
 
 <img src="https://raw.githubusercontent.com/Penguin-Lab/telescopio_stellarium/main/images/telescopio_1.jpeg" height="245">
 <img src="https://raw.githubusercontent.com/Penguin-Lab/telescopio_stellarium/main/images/telescopio_2.jpeg" height="245">
