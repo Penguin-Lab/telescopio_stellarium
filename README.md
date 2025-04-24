@@ -2,12 +2,12 @@
 Neste projeto, um telescópio manual na configuração Azimutal foi automatizado para que fosse possível ajustar os ângulos de azimute e altitude a partir de dados do software Stellarium. Abaixo, é possível ver o sistema embarcado no telescópio.
 
  <p>
-  <img src="https://raw.githubusercontent.com/Penguin-Lab/telescopio_stellarium/main/images/telescopio_7.jpeg" height="500" align="left" hspace="20" />
+  <img src="https://raw.githubusercontent.com/Penguin-Lab/telescopio_stellarium/main/images/telescopio_7.jpeg" height="400" align="left" hspace="20" />
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/Penguin-Lab/telescopio_stellarium/main/images/telescopio_0.jpeg" height="245" /><br>
-  <img src="https://raw.githubusercontent.com/Penguin-Lab/telescopio_stellarium/main/images/telescopio_6.jpeg" height="245" />
+  <img src="https://raw.githubusercontent.com/Penguin-Lab/telescopio_stellarium/main/images/telescopio_0.jpeg" height="195" /><br>
+  <img src="https://raw.githubusercontent.com/Penguin-Lab/telescopio_stellarium/main/images/telescopio_6.jpeg" height="195" />
 </p>
 
 # Estrutura física
